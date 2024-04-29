@@ -1,0 +1,32 @@
+.navbarItems {
+    background-color: #111827;
+    padding: 15px 30px;
+    color: #fff;
+    font-size: large;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.homeButton {
+    color: #1D4ED8;
+}
+.sectionOne {
+    display: flex;
+}
+.navLinks {
+    display: flex;
+    gap: 25px;
+    text-decoration: none;
+    list-style-type: none;
+    cursor: pointer;
+}
+.navButton {
+    width: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    color: #fff;
+    font-weight: 600;
+    background-color: #1D4ED8;
+    cursor: pointer;
+}
